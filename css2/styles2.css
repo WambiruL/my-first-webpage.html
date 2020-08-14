@@ -1,24 +1,22 @@
 body {
     background-color: gold;
   }
-  h1 {
-      color: blue;
-      text-align: center;
       
-  }
+  
   h2 {
     color: green;
     font-style: italic;
-    text-align: center;
   }
   p {
-    font-family: sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: crimson;
     text-align: center;
+    font-size: large;
+    font-weight: bold;
   }
-  ul {
+  ul, li{
     line-height: 40px;
-    list-style-type: circle;
+    font-size: large;
   }
   
       
